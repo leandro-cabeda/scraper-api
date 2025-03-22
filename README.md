@@ -29,7 +29,7 @@ Os produtos são retornados em ordem de preço, do **mais barato para o mais car
 - GET http://localhost:3000/lenovo-laptops
 
 4. Quais dados são coletados?
-- Para cada notebook Lenovo encontrado, a API retorna:
+### Para cada notebook Lenovo encontrado, a API retorna:
 
 - **Título**
 - **Preço**
@@ -46,5 +46,5 @@ Os produtos são retornados em ordem de preço, do **mais barato para o mais car
 - Coleta todos os notebooks da marca **Lenovo**.
 - Retorna os dados em **JSON**.
 - Ordena os produtos do **mais barato para o mais caro**.
-- Pode ser consumida por qualquer outro serviço (RESTful).
+- Pode ser consumida por qualquer outro serviço (RestFull).
 
