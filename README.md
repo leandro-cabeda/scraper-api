@@ -21,12 +21,12 @@ Os produtos são retornados em ordem de preço, do **mais barato para o mais car
 - git clone https://github.com/seu-usuario/scraper-api.git
 
 2. Entre na pasta e executa os comandos
-cd lenovo-scraper-api
-npm install
-npm start
+- cd lenovo-scraper-api
+- npm install
+- npm start
 
 3. Acesso url da api local
-GET http://localhost:3000/lenovo-laptops
+- GET http://localhost:3000/lenovo-laptops
 
 4. Quais dados são coletados?
 - Para cada notebook Lenovo encontrado, a API retorna:
