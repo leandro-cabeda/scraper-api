@@ -21,7 +21,7 @@ Os produtos são retornados em ordem de preço, do **mais barato para o mais car
 - git clone https://github.com/seu-usuario/scraper-api.git
 
 2. Entre na pasta e executa os comandos
-- cd lenovo-scraper-api
+- cd scraper-api
 - npm install
 - npm start
 
